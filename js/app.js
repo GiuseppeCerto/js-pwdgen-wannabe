@@ -1,12 +1,12 @@
 // 1. chiedere nome all'utente
 
-let firstname = prompt('Quale è il tuo nome?');
-console.log(firstname);
+let firstName = prompt('Quale è il tuo nome?');
+console.log(firstName);
 
 // 2. chidere cognome all'utente
 
-let surname = prompt('Quale è il tuo cognome?');
-console.log(surname);
+let surName = prompt('Quale è il tuo cognome?');
+console.log(surName);
 
 // 3. chiedere colore preferito
 
